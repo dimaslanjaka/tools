@@ -4,3 +4,7 @@ baseurl: /tools/      # place folder name if the site is served in a subfolder
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-readme-index
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
