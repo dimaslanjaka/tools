@@ -1,0 +1,25 @@
+{
+  "name": "image-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.31.1"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.9",
+    "@types/node": "^18.11.8",
+    "@types/sharp": "^0.31.0",
+    "@types/through2": "github:dimaslanjaka/nodejs-package-types#through2",
+    "gulp": "^4.0.2",
+    "nodejs-package-types": "github:dimaslanjaka/nodejs-package-types",
+    "prettier": "^2.7.1",
+    "through2": "^4.0.2"
+  }
+}
