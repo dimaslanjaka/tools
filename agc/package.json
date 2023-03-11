@@ -28,5 +28,6 @@
     "node-libcurl": "^3.0.0",
     "sbg-utility": "^1.0.6",
     "upath": "^2.0.1"
-  }
+  },
+  "packageManager": "yarn@3.4.1"
 }
