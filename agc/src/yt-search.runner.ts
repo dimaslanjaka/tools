@@ -1,5 +1,5 @@
-import Nightmare from 'nightmare';
-import path from 'upath';
+import * as Nightmare from 'nightmare';
+import * as path from 'upath';
 
 const nightmare = new Nightmare({
   show: true,
